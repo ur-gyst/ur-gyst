@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ur-gyst
-- 👀 I’m interested in small size code
+- 👀 I’m interested in small-sized code
 - 🌱 I’m currently learning to gain weight and grow my hair
 - 💞️ I’m looking to collaborate on porting Minecraft to Vic 20 Basic
 - 📫 How to reach me is easy. Call out my name 3 times backwards while pinching and twisting your nose anti-clockwise
